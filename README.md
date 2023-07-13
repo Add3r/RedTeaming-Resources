@@ -3,7 +3,7 @@ Archive for capturing specialised resources catering for Red teaming and other a
 
 Red Teaming Lifecycle
 
-![RT killchain Phases](https://github.com/Add3r/Security-Resources/blob/master/RedTeaming-LifeCycle.png)
+![RT killchain Phases](https://github.com/Add3r/RedTeaming-Resources/blob/main/RedTeaming-LifeCycle.png)
 
 Online Training
 
