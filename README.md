@@ -13,5 +13,5 @@ Online Training
 
 Online References
 
--[Red Team Notes](https://www.ired.team/)
--[RT Template Documents](https://redteam.guide)
+- [Red Team Notes](https://www.ired.team/)
+- [RT Template Documents](https://redteam.guide)
