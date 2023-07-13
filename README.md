@@ -1,7 +1,6 @@
 # RedTeaming-Resources
 Archive for capturing specialised resources catering for Red teaming and other advanced offensive practices
-
-Red Teaming Lifecycle
+### Red Teaming Lifecycle
 
 ![RT killchain Phases](https://github.com/Add3r/RedTeaming-Resources/blob/main/RedTeaming-LifeCycle.png)
 
