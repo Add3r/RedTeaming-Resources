@@ -20,6 +20,11 @@ References
 - [Red Team Notes](https://www.ired.team/)
 - [RT Template Documents](https://redteam.guide)
 
+LOLbas
+- [Windows](https://lolbas-project.github.io/)
+- [Unix](https://gtfobins.github.io/)
+- [Drivers](https://www.loldrivers.io/)
+
 Books
 
 - [Practical Social Engineering](https://nostarch.com/practical-social-engineering)
