@@ -4,7 +4,7 @@ Archive for capturing specialised resources catering for Red teaming and other a
 
 ![RT killchain Phases](https://github.com/Add3r/RedTeaming-Resources/blob/main/RedTeaming-LifeCycle.png)
 
-Courses
+Top Courses
 
 - [Sektor7](https://institute.sektor7.net/)
 - [ZeroPoint Security](https://training.zeropointsecurity.co.uk/)
