@@ -34,10 +34,21 @@ Books
 - [Red Team Book](https://www.amazon.com.au/Red-Team-Development-Operations-practical/dp/B083XVG633)
 - [RTFM](https://www.amazon.com.au/RTFM-Red-Team-Field-Manual/dp/1075091837/)
 
+Writing Effective & Efficient coding
+
+- [Data Structures](https://www.algoexpert.io/data-structures)
+- [Learn Rust](https://training.zeropointsecurity.co.uk/courses/rust-for-n00bs)
+- [VS Code](https://code.visualstudio.com/learn)
+
 Videos
 
 - [Physical Security Hacking](https://www.youtube.com/watch?v=rnmcRTnTNC8)
 - [Elevator Hacking](https://www.youtube.com/watch?v=ZUvGfuLlZus)
+
+Attack/Defend TV Series
+
+- [Money Heist](https://www.imdb.com/title/tt6468322/)
+- [Death Note](https://www.imdb.com/title/tt0877057/)
 
 People to follow
 
