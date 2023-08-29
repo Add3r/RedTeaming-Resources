@@ -10,6 +10,10 @@ Top Courses
 - [ZeroPoint Security](https://training.zeropointsecurity.co.uk/)
 - [Malware Dev](https://maldevacademy.com/)
 
+Automation
+
+- [DevOps for Offensive Testers](https://training.zeropointsecurity.co.uk/courses/devops-for-pentesters)
+
 Training Pathways
 
 - [Red Teaming - TryHackMe](https://tryhackme.com/path/outline/redteaming)
