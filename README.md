@@ -1,3 +1,11 @@
+<div align="center">
+
+![Made with Love](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red.svg)
+[![Support](https://img.shields.io/static/v1?label=Support&message=Ko-fi&color=ff5e5b&logo=ko-fi)](https://ko-fi.com/add3r)
+![Repository Views](https://komarev.com/ghpvc/?username=Add3r&label=Repository+Views)
+
+</div>
+
 # RedTeaming-Resources
 Archive for capturing specialised resources catering for Red teaming and other advanced offensive practices
 ### Red Teaming Lifecycle
