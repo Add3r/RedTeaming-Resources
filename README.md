@@ -17,6 +17,7 @@ Top Courses
 - [Sektor7](https://institute.sektor7.net/)
 - [ZeroPoint Security](https://training.zeropointsecurity.co.uk/)
 - [Malware Dev](https://maldevacademy.com/)
+- [OSEP](https://www.offsec.com/courses/pen-300/)
 
 Automation
 
