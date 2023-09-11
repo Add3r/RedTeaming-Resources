@@ -50,7 +50,8 @@ Books
 Writing Effective & Efficient coding
 
 - [Data Structures](https://www.algoexpert.io/data-structures)
-- [Learn Rust](https://training.zeropointsecurity.co.uk/courses/rust-for-n00bs)
+- [Learn Rust for Security](https://training.zeropointsecurity.co.uk/courses/rust-for-n00bs)
+    - [Rust General](https://tourofrust.com/TOC_en.html)
 - [VS Code](https://code.visualstudio.com/learn)
 
 Videos
