@@ -41,6 +41,9 @@ LOLbas
 Books
 
 - [Practical Social Engineering](https://nostarch.com/practical-social-engineering)
+
+![Social Engineering Attack Map](https://github.com/Add3r/RedTeaming-Resources/blob/main/SE-Attacks.png)
+
 - [Evading EDR](https://nostarch.com/evading-edr)
 - [BSD Rootkits](https://nostarch.com/rootkits.htm)
 - [LockSport](https://nostarch.com/locksport)
