@@ -42,6 +42,7 @@ Books
 
 - [Practical Social Engineering](https://nostarch.com/practical-social-engineering)
 
+
 ![Social Engineering Attack Map](https://github.com/Add3r/RedTeaming-Resources/blob/main/SE-Attacks.png)
 
 - [Evading EDR](https://nostarch.com/evading-edr)
