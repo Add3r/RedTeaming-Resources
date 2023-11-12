@@ -18,6 +18,7 @@ Top Courses
 - [ZeroPoint Security](https://training.zeropointsecurity.co.uk/)
 - [Malware Dev](https://maldevacademy.com/)
 - [OSEP](https://www.offsec.com/courses/pen-300/)
+- [Zero Day engineering](https://zerodayengineering.com/training/index.html)
 
 Automation
 
@@ -57,6 +58,11 @@ Writing Effective & Efficient coding
 - [Learn Rust for Security](https://training.zeropointsecurity.co.uk/courses/rust-for-n00bs)
     - [Rust General](https://tourofrust.com/TOC_en.html)
 - [VS Code](https://code.visualstudio.com/learn)
+
+Tools and Gadgets
+
+- [Hak5](https://shop.hak5.org/)
+- [Lab401](https://lab401.com/)
 
 Videos
 
