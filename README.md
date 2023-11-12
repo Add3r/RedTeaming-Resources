@@ -35,6 +35,7 @@ References
 - [RT Template Documents](https://redteam.guide)
 
 LOLbas
+
 - [Windows](https://lolbas-project.github.io/)
 - [Unix](https://gtfobins.github.io/)
 - [Drivers](https://www.loldrivers.io/)
