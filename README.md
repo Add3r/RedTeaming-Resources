@@ -19,7 +19,7 @@ Top Courses
 - [Malware Dev](https://maldevacademy.com/)
 - [OSEP](https://www.offsec.com/courses/pen-300/)
 - [Zero Day engineering](https://zerodayengineering.com/training/index.html)
-- [ARM Assembly](https://azeria-labs.com/writing-arm-assembly-part-1/?s=09)
+- [ARM Assembly](https://azeria-labs.com/)
 
 Automation
 
@@ -83,3 +83,4 @@ People to follow
 - [Rasta Mouse](https://rastamouse.me/)
 - [Adam Chester](https://blog.xpnsec.com/)
 - [b33f](https://fuzzysecurity.com/)
+- [Azeria](https://twitter.com/fox0x01)
