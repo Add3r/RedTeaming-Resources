@@ -19,6 +19,7 @@ Top Courses
 - [Malware Dev](https://maldevacademy.com/)
 - [OSEP](https://www.offsec.com/courses/pen-300/)
 - [Zero Day engineering](https://zerodayengineering.com/training/index.html)
+- [ARM Assembly](https://azeria-labs.com/writing-arm-assembly-part-1/?s=09)
 
 Automation
 
