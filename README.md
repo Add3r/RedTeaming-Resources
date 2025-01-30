@@ -14,6 +14,8 @@ Archive for capturing specialised resources catering for Red teaming and other a
 
 Top Courses
 
+- [PhySec-Surveillance-Evasion](https://shop.redteamalliance.com/collections/classes)
+
 - [Sektor7](https://institute.sektor7.net/)
 - [ZeroPoint Security](https://training.zeropointsecurity.co.uk/)
 - [Malware Dev](https://maldevacademy.com/)
