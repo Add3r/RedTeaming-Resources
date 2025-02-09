@@ -18,10 +18,15 @@ Top Courses
 
 - [Sektor7](https://institute.sektor7.net/)
 - [ZeroPoint Security](https://training.zeropointsecurity.co.uk/)
-- [Malware Dev](https://maldevacademy.com/)
 - [OSEP](https://www.offsec.com/courses/pen-300/)
 - [Zero Day engineering](https://zerodayengineering.com/training/index.html)
 - [ARM Assembly](https://azeria-labs.com/)
+- [Android Rev](https://www.udemy.com/course/pentesting-exploits-noted-in-smartphones-android-edition/)
+
+Malware Dev
+
+- [Malware Dev](https://maldevacademy.com/)
+- [Malware Bible](https://bible.malcore.io/)
 
 Automation
 
